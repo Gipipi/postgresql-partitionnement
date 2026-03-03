@@ -1,0 +1,12 @@
+# Résultats de benchmark (générés localement)
+resultats_benchmark.txt
+*.log
+
+# Fichiers temporaires
+/tmp/pg_worker_*.log
+/tmp/pg_phase3_*.log
+
+# Éditeurs
+.vscode/
+*.swp
+*~
